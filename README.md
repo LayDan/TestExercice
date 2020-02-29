@@ -1,10 +1,7 @@
 # TestExercise
 
 
-
-
-[![Build Status](https://travis-ci.com/LayDan/TestExercise.svg?branch=master)](https://travis-ci.org/LayDan/TestExercise)
-
+[![TestExercise build status](https://travis-ci.org/devopshq/TestExerciсe.svg)](https://travis-ci.org/LayDan/TestExerciсe)
 
 The following technologies are used :
 
