@@ -3,7 +3,7 @@
 
 
 
-[![Build Status](https://travis-ci.com/LayDan/TestExercice.svg?branch=master)](https://travis-ci.org/LayDan/TestExercise)
+[![Build Status](https://travis-ci.com/LayDan/TestExercice.svg?branch=master)](https://travis-ci.org/LayDan/TestExercice)
 
 
 The following technologies are used :
