@@ -15,6 +15,7 @@ public class RegularConfig {
 
     //Изначально tomcat запрещает использовать в URL спецсимволы ^ | { } [ ]
     // Поэтому с помощью данного бина, мы добавляем необходимые нам символы для использования
+    // Поместил в файл с основными свойствами, потому что каждый раз лезть в конфиги и исправлять это не особо удобно
     @Bean
     public ConfigurableServletWebServerFactory webServerFactory() {
         TomcatServletWebServerFactory factory = new TomcatServletWebServerFactory();
